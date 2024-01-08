@@ -3,6 +3,9 @@
   font-family: Arial, Helvetica, sans-serif;
   border: border-box;
 }
+
+/* navbar */
+
 .navbar {
   height: 60px;
   background-color: #0f1111;
@@ -104,5 +107,36 @@ span{
 }
 .nav-cart{
     font-size: 0.8rem;
+    font-weight: 700;
+}
+
+/* panel */
+
+.panel{
+    height: 40px;
+    display: flex;
+    background-color: #232F3E;
+    color: white;
+    align-items: center;
+    font-size: 0.9rem;
+    font-weight: 500;
+    justify-content: space-evenly;
+}
+.panel-all{
+    font-weight: 700;
+
+}
+.panel-options{
+    width: 80%;
+    font-size: 0.8 rem;
+}
+.panel-options p{
+    display: inline-flex;
+    align-items: center;
+    margin-left: 10px;
+}
+
+.panel-deals{
+    font-style: 0.9rem;
     font-weight: 700;
 }
