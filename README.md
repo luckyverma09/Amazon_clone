@@ -12,4 +12,4 @@ This project is a simplified clone of the Amazon website created using HTML and 
 
 ## Live Link
 
-http://127.0.0.1:5500/index.html
+https://luckyverma09.github.io/Amazon_clone/
